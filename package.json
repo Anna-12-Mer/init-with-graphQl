@@ -1,0 +1,19 @@
+{
+  "name": "init-with-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anna-12-Mer/init-with-graphQl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anna-12-Mer/init-with-graphQl/issues"
+  },
+  "homepage": "https://github.com/Anna-12-Mer/init-with-graphQl#readme"
+}
